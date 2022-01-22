@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "Soon",
+      "domain": "https://UltimateMusic.mohamed234.repl.co"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://UltimateMusic.mohamed234.repl.co/callback",
+        "clientID": "923298399971848242",
+        "secret": "REPLIT VARIABLE TO HIDE IT!!"
+    }
+  }
